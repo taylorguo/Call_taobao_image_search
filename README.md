@@ -5,6 +5,8 @@
 
 <iframe width="560" height="315" src="https://github.com/taylorguo/Call_taobao_image_search/blob/master/assets/call_tb_api.mp4" frameborder="0" allowfullscreen></iframe>
 
+[![](https://github.com/taylorguo/Call_taobao_image_search/blob/master/assets/comb_001.jpg)](https://github.com/taylorguo/Call_taobao_image_search/blob/master/assets/call_tb_api.mp4)
+
 ## 1. Windows 自动化测试工具
 
   * autoitscript
