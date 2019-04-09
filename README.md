@@ -3,7 +3,7 @@
 
 效果预览:
 
-<iframe width="560" height="315" src="./assets/call_tb_api.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://github.com/taylorguo/Call_taobao_image_search/blob/master/assets/call_tb_api.mp4" frameborder="0" allowfullscreen></iframe>
 
 ## 1. Windows 自动化测试工具
 
